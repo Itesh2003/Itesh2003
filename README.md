@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Itesh2003
+- 👋 Hi, I’m @IteshGuleria
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning c++
-- 📫 How to reach me ishaanguleria2016@gmail.com
+- 🌱 I’m currently learning UI/UX
+- 📫 How to reach me iteshkumarguleria@gmail.com
 
 <!---
 Itesh2003/Itesh2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
